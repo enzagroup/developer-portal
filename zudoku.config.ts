@@ -5,6 +5,7 @@ const config: ZudokuConfig = {
     { id: "docs", label: "Documentation" },
     { id: "api", label: "API Reference" },
   ],
+  basePath: "/developer-portal",
   sidebar: {
     docs: [
       {
